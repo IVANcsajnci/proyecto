@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #5d060681;
+}
+
+.cuadro {
+    width: 200px;
+    height: 200px;
+    background-color: #3498db;
+    margin: 10px;
+    border-radius: 10px;
+}
